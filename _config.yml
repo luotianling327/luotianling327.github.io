@@ -1,10 +1,10 @@
 # Site settings
-title: Zhuzhu's Blog
-SEOTitle: Zhuzhu's 大平層 | Zhuzhu's Blog
+title: Tianling Luo
+SEOTitle: Tianling Luo
 header-img: img/home-bg.jpg
-description: "關於海蠣與腦細胞、月亮與直角坐標系 | Zhuzhu，The world, Lifestyle, Explorations  | 這裡是Zhuzhu的海景大平層，一個放飛自我的地方。"
-keyword: "博客, 個人網站, 記錄, ..."
-url: "https://zhuzhu1999.github.io"              # your host, for absolute URL
+description: "Tianling Luo's personal website"
+keyword: "personal website, Tianling Luo"
+url: "https://luotianling327.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -12,9 +12,9 @@ future: true
 
 # SNS settings
 RSS: false
-email: "luotldudu@gmail.com"
+email: "luotl@connect.hku.hk"
 #twitter_username: "twitteruser"
-github_username: "zhuzhu1999"
+github_username: "luotianling327"
 #linkedin_username: "linkedinuser"
 #facebook_username: username
 #flickr_username: username
