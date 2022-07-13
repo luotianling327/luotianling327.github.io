@@ -83,7 +83,7 @@ ga_domain: luotianling327.github.io
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Tianling Luo <br> <b>Email:</b> luotl_at_uchicago_dot_edu <br> <b>Address:</b> Drexel Ave., Chicago, IL 60637 USA"
+sidebar-about-description: "<b><font size="+2">Tianling Luo</font></b> <br> <b>Email:</b> luotl_at_uchicago_dot_edu <br> <b>Address:</b> Drexel Ave., Chicago, IL 60637 USA"
 sidebar-avatar: /img/profile4.jpg    # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
