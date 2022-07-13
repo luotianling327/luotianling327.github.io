@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Hello 2015"
-subtitle:   " \"Hello World, Hello second half of 2022\""
+subtitle:   " \"Hello World, Hello Second Half of 2022\""
 date:       2022-07-12 22:15:09 -0500
 author:     "Tianling"
 header-img: "img/post-bg-2015.jpg"
