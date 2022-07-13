@@ -12,7 +12,7 @@ future: true
 
 # SNS settings
 RSS: false
-email: "luotl@connect.hku.hk"
+email: "luotl@uchicago.edu"
 #twitter_username: "twitteruser"
 github_username: "luotianling327"
 #linkedin_username: "linkedinuser"
@@ -64,7 +64,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: zhuzhu-1
+disqus_username: tianlings-website
 
 # Netease settings
 netease_comment: false
