@@ -1,14 +1,12 @@
 ##### About me
 
-Hi, I am a master's student at the [University of Chicago](https://www.uchicago.edu/) studying economics. Prior to UChicago, I obtained my Bachelor of Science in Mathematics from the [University of Hong Kong](https://www.hku.hk/) (with a double major in economics and a minor in computer science).
+Hi, I am Tianling, a master's student at the [University of Chicago](https://www.uchicago.edu/) studying economics. Prior to UChicago, I obtained my Bachelor of Science in Mathematics from the [University of Hong Kong](https://www.hku.hk/) (with a double major in economics and a minor in computer science).
 
 ##### Research
 
-My academic research interests include game theory and mechanism design. 
+My academic research interests include game theory and mechanism design. I'm currently working on my master thesis *School Choice with Reserved Seats* about matching theory in economics. I also wrote an economics paper *Punishment Designs on Revolution* during my undergraduate study at HKU, focusing on game theory, information structure, and macroeconomics.
 
-I'm currently working on my master thesis *School Choice with Reserved Seats* about matching theory in economics. I also wrote an economics paper *Punishment Designs on Revolution* during my undergraduate study at HKU, focusing on game theory, information structure, and macroeconomics.
-
-Besides, I'm also passionate about machine learning and NLP. I have researched with mathematics, finance, and computer science professors on projects involving deep learning, sentiment analysis, and supervised learning, respectively.
+Besides, I'm passionate about machine learning and NLP. I have researched with mathematics, finance, and computer science professors on projects involving deep learning, sentiment analysis, and supervised learning, respectively.
 
 ##### Experience
 
