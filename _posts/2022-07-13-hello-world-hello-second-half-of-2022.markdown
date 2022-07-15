@@ -4,7 +4,7 @@ title:      "Hello World"
 subtitle:   " \"Hello World, Hello Second Half of 2022\""
 date:       2022-07-12 22:15:09 -0500
 author:     "Tianling"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/home-bg-o.jpg"
 catalog: true
 tags:
     - Website
