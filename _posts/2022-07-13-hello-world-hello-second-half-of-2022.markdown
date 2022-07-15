@@ -11,26 +11,10 @@ tags:
     - Github
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+It has been years since I wanted to build a personal website. But I finally get down to doing it during this time when I am graduating and writing my thesis. [Github Pages][Github Pages] + [Jekyll][Jekyll] provides a convinient and elegant way to build it. It makes posting an article/blog as simple as making a `Git commit`. During this process, I also learnt a little bit of the powerful tools - `HTML`, `CSS`, and `JavaScript`, which is intriguing. Hope to know more about them!
 
-Jekyll requires blog post files to be named according to the following format:
+I'd like to express my gratitude to [Hux's blog][Hux's blog], a wonderful open source project where my website is adapted. Apart from basic functions, it allows some extra great features such as searching and adding tags.
 
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[Github Pages]: https://pages.github.com/
+[Jekyll]: http://jekyllrb.com/
+[Hux's blog]: https://github.com/Huxpro/huxpro.github.io
